@@ -1,6 +1,6 @@
 # GeoPython2021
 A repository of my talk at GeoPython Conference 2021. 
-The talk title was: "Curie Point Depth Mapping using PyCurious from Aeromagnetic Data"
+The talk title was: **"Curie Point Depth Mapping using PyCurious from Aeromagnetic Data"**
 
 To respect the instruction from the GeoPython 2021 organizer, I will upload the ipynb files and other supporting document while the presentation video uploaded by the org. For now, you can download the powerpoint slides of my talk that might help you to understand what I've done with PyCurious.
 
